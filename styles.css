@@ -66,10 +66,9 @@ th, tfoot {
 footer{
     padding-top: 50px;
     text-align: center;
-    margin-left: 0 auto;  
 }
 
 footer ul li {
     display: inline;
-    padding: 50px;
+    padding: 20px;
 }
