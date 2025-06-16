@@ -43,8 +43,7 @@ div{
 }
 
 table{
-    position: relative;
-    left: 36%;
+    margin: 0 auto;
     font-size: 20px;
 }
 
@@ -66,19 +65,8 @@ th, tfoot {
 
 footer{
     padding-top: 50px;
-    display: inline-block;
-    clear: both;
     text-align: center;
-    position: relative;
-    left: 25%;
-}
-
-.informacion{
-    float: left;
-}
-
-.contacto{
-    float: right;
+    margin-left: 0 auto;  
 }
 
 footer ul li {
