@@ -71,10 +71,14 @@ th, tfoot {
     color: limegreen;
 }
 
-.tag, .attribute {
+.tag, .attribute, .selector {
     background-color: antiquewhite;
     color: blue;
     font-weight: bold;
+}
+
+.selector{
+    color: red !important;
 }
 
 footer{
